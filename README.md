@@ -41,7 +41,8 @@ A feature-rich e-commerce platform built to provide a seamless shopping experien
 
 2.Set up environment variables:
   Create a .env file in the root directory and add the following
-  ```bash
+
+  
   NODE_ENV=development
   PORT=5000
   MONGO_URI=your_mongodb_uri
@@ -61,7 +62,7 @@ A feature-rich e-commerce platform built to provide a seamless shopping experien
 - Delivered a scalable and user-friendly e-commerce solution with robust features.  
 
 ## Project Links  
-- **GitHub Repository**: [Add your GitHub link here](#)  
+- **GitHub Repository**: [https://github.com/Sathish14325/Easy-Shop](#)  
 - **Live Demo**: [Add your live demo link here](#)  
 
 ---
